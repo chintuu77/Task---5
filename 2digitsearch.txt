@@ -1,0 +1,4 @@
+#!/bin/bash
+
+number=$((RANDOM%90+10)) #(10-99)
+echo $number;
